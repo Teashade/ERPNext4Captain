@@ -1,2 +1,2 @@
-FROM pipech/erpnext-docker-debian:dev-py3-latest
+FROM monogramm/docker-erpnext:develop-alpine
 
